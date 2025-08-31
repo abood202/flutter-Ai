@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+feedparser
+fastapi
+uvicorn[standard]
+google-cloud-firestore
+sentence-transformers
+chromadb
+praw
+PyGithub
+python-dotenv
+tenacity
+ratelimit
+lxml
+electrum   # optional
